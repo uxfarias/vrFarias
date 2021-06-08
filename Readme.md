@@ -1,8 +1,8 @@
 ## Oi, meu nome é Vinicius Rodrigues de Farias.
  <div>
   <a href="https://github.com/vrFarias">
-  <img width="300" src="https://github-readme-stats.vercel.app/api?username=vrFarias"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrFarias&layout=compact"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=vrFarias"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrFarias&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
