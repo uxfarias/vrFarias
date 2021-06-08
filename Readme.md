@@ -1,7 +1,7 @@
 ## Oi, meu nome é Vinicius Rodrigues de Farias.
  <div>
   <a href="https://github.com/vrFarias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vrFarias"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vrFarias"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrFarias&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
